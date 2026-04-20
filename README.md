@@ -7,6 +7,6 @@ Hosted a static website on AWS EC2 using Apache2.
 
 ## Screenshots
 - EC2 Instance Screenshot
-- User1 Login Screenshot
+- User1 Login Screenshot Screenshot 2026-04-20 133336.png
 - User2 Login Screenshot Screenshot 2026-04-20 134627.png
 
